@@ -1,4 +1,4 @@
 redreader-icon
 ==============
 
-Icon for RedReader, a opensource reddit client
+Icon for RedReader, an opensource reddit client
